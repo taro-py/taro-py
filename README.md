@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ing-taro&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taro-py&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
