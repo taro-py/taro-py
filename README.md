@@ -1,5 +1,32 @@
 ## Hello there!! 👋
 
+### 👨‍💻 Estudiante de 3º de Ingeniería del Software | Universidad de Huelva (UHU)
+Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo de sistemas, redes e IA.
+
+---
+
+## 🛠️ Mi Stack Técnico
+
+### 💻 Desarrollo y Algoritmia
+* **Lenguajes:** C++, Java, Python, SQL.
+* **IDE'S** Cursor, VisualStudio, Pycharm, Codeblocks, Eclipse, Apache.
+* **Especialidades:** Estructuras de datos, Análisis de complejidad, Programación Orientada a Objetos (POO) y Concurrencia.
+* **IA:** Desarrollo de agentes y algoritmia orientada a Inteligencia Artificial.
+
+### 🌐 Infraestructura y Redes
+* **Sistemas:** Administrador entusiasta de Linux y configuración de servidores.
+* **Networking:** Configuración de topologías (Cisco), análisis de tráfico (Wireshark) y gestión remota (Putty).
+* **Bases de Datos:** Diseño y optimización en SQL.
+
+### 🔐 Ciberseguridad
+* Aprendizaje continuo y autodidacta en seguridad informática, aplicando conceptos de redes y sistemas para construir software más robusto.
+
+---
+
+
+## 📫 Conecta conmigo:
+* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/neizan-roggie-martinez-60962b2a7/)
+* **Email:** neizanroggie7@gmail.com
 ## 
 
 
