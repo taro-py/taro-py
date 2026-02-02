@@ -24,7 +24,7 @@ Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo
 ---
 
 
-## 📫 Conecta conmigo:
+## 📫 Contacta conmigo:
 * **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/neizan-roggie-martinez-60962b2a7/)
 * **Email:** neizanroggie7@gmail.com
 ## 
