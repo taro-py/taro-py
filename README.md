@@ -14,7 +14,7 @@ Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo
 * **IA:** Desarrollo de agentes y algoritmia orientada a Inteligencia Artificial.
 
 ### 🌐 Infraestructura y Redes
-* **Sistemas:** Administrador entusiasta de Linux y configuración de servidores.
+* **Sistemas:** Ubuntu, Kali Linux, Windows.
 * **Networking:** Configuración de topologías (Cisco), análisis de tráfico (Wireshark) y gestión remota (Putty).
 * **Bases de Datos:** Diseño y optimización en SQL.
 
