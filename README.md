@@ -19,7 +19,7 @@ Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo
 * **Bases de Datos:** Diseño y optimización en SQL.
 
 ### 🔐 Ciberseguridad
-* Aprendizaje continuo y autodidacta en seguridad informática, aplicando conceptos de redes y sistemas para construir software más robusto.
+* Aprendizaje continuo y autodidacta en seguridad informática, aplicando conceptos de redes y sistemas para construir software más robusto, además de buscar vulnerabilidades en sistemas y servidores linux.  
 
 ---
 
