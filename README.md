@@ -9,7 +9,7 @@ Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo
 
 ### 💻 Desarrollo y Algoritmia
 * **Lenguajes:** C++, Java, Python, SQL.
-* **IDE'S** Cursor, VisualStudio, Pycharm, Codeblocks, Eclipse, Apache.
+* **IDE'S:** Cursor, VisualStudio, Visual Studio Code, Pycharm (Jetbrains), Codeblocks, Eclipse, Antigravity.
 * **Especialidades:** Estructuras de datos, Análisis de complejidad, Programación Orientada a Objetos (POO) y Concurrencia.
 * **IA:** Desarrollo de agentes y algoritmia orientada a Inteligencia Artificial.
 
