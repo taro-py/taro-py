@@ -1,24 +1,24 @@
 ## Hello there!! 👋
 
-### 👨‍💻 Estudiante de 3º de Ingeniería del Software | Universidad de Huelva (UHU)
+### Estudiante de 3º de Ingeniería del Software | Universidad de Huelva (UHU)
 Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo de sistemas, redes e IA.
 
 ---
 
-## 🛠️ Mi Stack Técnico
+## Mi Stack Técnico
 
-### 💻 Desarrollo y Algoritmia
+### Desarrollo y Algoritmia
 * **Lenguajes:** C++, Java, Python, SQL.
 * **IDE'S:** Cursor, VisualStudio, Visual Studio Code, Pycharm (Jetbrains), Codeblocks, Eclipse, Antigravity.
 * **Especialidades:** Estructuras de datos, Análisis de complejidad, Programación Orientada a Objetos (POO) y Concurrencia.
 * **IA:** Desarrollo de agentes y algoritmia orientada a Inteligencia Artificial.
 
-### 🌐 Infraestructura y Redes
+### Infraestructura y Redes
 * **Sistemas:** Ubuntu, Kali Linux, Windows.
 * **Networking:** Configuración de topologías (Cisco), análisis de tráfico (Wireshark) y gestión remota (Putty).
 * **Bases de Datos:** Diseño y optimización en SQL.
 
-### 🔐 Ciberseguridad
+### Ciberseguridad
 * Aprendizaje continuo y autodidacta en seguridad informática, aplicando conceptos de redes y sistemas para construir software más robusto, además de buscar vulnerabilidades en sistemas y servidores linux.  
 
 ---
