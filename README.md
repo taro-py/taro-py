@@ -7,7 +7,7 @@ I am an aspiring Full Stack Engineer with a solid foundation in systems developm
 
 ## My Technical Stack
 
-### Desarrollo y Algoritmia
+### Development and tools 
 * **Languages:** C++, C, Java, Python, SQL, JSON.
 * **IDE'S:** Cursor, Visual Studio, PyCharm (JetBrains), Code::Blocks, Eclipse, Antigravity, Apache, Oracle, DBeaver, Figma.
 * **Specialties:** Data Structures, Complexity Analysis (Big O), Object-Oriented Programming (OOP), Concurrency, Software Design Patterns, and API Development.
