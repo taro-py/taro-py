@@ -1,30 +1,30 @@
 ## Hello there!! 👋
 
-### Estudiante de 3º de Ingeniería del Software | Universidad de Huelva (UHU)
-Soy un aspirante a **Full Stack Engineer** con una base sólida en el desarrollo de sistemas, redes e IA.
+### 3rd-Year Software Engineering Student | University of Huelva (UHU)
+I am an aspiring Full Stack Engineer with a solid foundation in systems development, networking, AI and Data.
 
 ---
 
-## Mi Stack Técnico
+## My Technical Stack
 
 ### Desarrollo y Algoritmia
-* **Lenguajes:** C++, Java, Python, SQL.
-* **IDE'S:** Cursor, VisualStudio, Visual Studio Code, Pycharm (Jetbrains), Codeblocks, Eclipse, Antigravity.
-* **Especialidades:** Estructuras de datos, Análisis de complejidad, Programación Orientada a Objetos (POO) y Concurrencia.
-* **IA:** Desarrollo de agentes y algoritmia orientada a Inteligencia Artificial.
+* **Languages:** C++, C, Java, Python, SQL.
+* **IDE'S:** Cursor, Visual Studio, PyCharm (JetBrains), Code::Blocks, Eclipse, Antigravity, Apache, Oracle, DBeaver.
+* **Specialties:** Data Structures, Complexity Analysis (Big O), Object-Oriented Programming (OOP), Concurrency.
+* **AI:** Agent development and Artificial Intelligence-oriented algorithms.
 
-### Infraestructura y Redes
-* **Sistemas:** Ubuntu, Kali Linux, Windows.
-* **Networking:** Configuración de topologías (Cisco), análisis de tráfico (Wireshark) y gestión remota (Putty).
-* **Bases de Datos:** Diseño y optimización en SQL.
+### Infrastructure and Networking
+* **Systems:** Ubuntu, Kali Linux, Arch Linux, MAC, Windows.
+* **Networking:** Topology configuration (Cisco), traffic analysis (Wireshark), and remote management (PuTTY).
+* **Databases:** Database design and management, including complex queries and cursors.
 
 ### Ciberseguridad
-* Aprendizaje continuo y autodidacta en seguridad informática, aplicando conceptos de redes y sistemas para construir software más robusto, además de buscar vulnerabilidades en sistemas y servidores linux.  
+* Continuous self-taught learning in information security, applying networking and systems concepts to build more robust software, as well as finding vulnerabilities in Linux systems and servers. 
 
 ---
 
 
-## 📫 Contacta conmigo:
+## 📫 Contact me:
 * **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/neizan-roggie-martinez-60962b2a7/)
 * **Email:** neizanroggie7@gmail.com
 ## 
