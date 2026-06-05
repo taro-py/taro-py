@@ -18,7 +18,7 @@ I am an aspiring Full Stack Engineer with a solid foundation in systems developm
 * **Networking:** Topology configuration (Cisco), traffic analysis (Wireshark), and remote management (PuTTY).
 * **Databases:** Database design and management, including complex queries and cursors.
 
-### Ciberseguridad
+### Cybersecurity
 * Continuous self-taught learning in information security, applying networking and systems concepts to build more robust software, as well as finding vulnerabilities in Linux systems and servers. 
 
 ---
