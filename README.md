@@ -34,7 +34,7 @@ I am an aspiring Full Stack Engineer/Data Engineer with a solid foundation in sy
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taro-py&layout=compact&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taro-py&layout=compact&theme=dark&hide=typescript)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>
 
