@@ -1,4 +1,4 @@
-## Hello there!! 👋
+## Hello there!! 
 
 ### 3rd-Year Software Engineering Student | University of Huelva (UHU)
 I am an aspiring Full Stack Engineer/Data Engineer with a solid foundation in systems development, networking, AI and Data.
