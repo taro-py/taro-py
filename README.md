@@ -1,6 +1,6 @@
 ## Hello there!! 
 
-### 3rd-Year Software Engineering Student | University of Huelva (UHU) & Universitetet i Stavanger (UiS)
+### 4th-Year Software Engineering Student | University of Huelva (UHU) & Universitetet i Stavanger (UiS)
 I am an aspiring Embedded Software Engineer with a solid foundation in systems development, networking, AI and Data.
 
 ---
