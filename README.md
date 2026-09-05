@@ -34,7 +34,7 @@ I am an aspiring FULL-STACK Software Engineer with a solid foundation in systems
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taro-py&layout=compact&theme=dark&hide=typescript&cache_seconds=1)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taro-py&layout=compact&theme=dark&hide=typescript,jupyter%20notebook)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 </div>
 
