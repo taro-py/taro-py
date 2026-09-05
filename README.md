@@ -1,7 +1,7 @@
 ## Hello there!! 
 
 ### 4th-Year Software Engineering Student | University of Huelva (UHU) & Universitetet i Stavanger (UiS)
-I am an aspiring FULL-STACK Embedded Software Engineer with a solid foundation in systems development, networking, AI and Data.
+I am an aspiring FULL-STACK Software Engineer with a solid foundation in systems development, networking, AI and Data.
 
 ---
 
