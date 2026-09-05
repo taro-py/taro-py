@@ -31,10 +31,9 @@ I am an aspiring FULL-STACK Software Engineer with a solid foundation in systems
 
 
 ##  Technologies I Work With
-
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=taro-py&layout=compact&theme=dark&hide=typescript&algorithm=repo_count)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/langs-per-repo.svg?username=taro-py&theme=dark)](https://github.com/vn7n24/github-profile-summary-cards)
 
 </div>
 
