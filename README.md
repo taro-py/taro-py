@@ -10,7 +10,7 @@ I am an aspiring FULL-STACK Software Engineer with a solid foundation in systems
 ### Development and tools 
 * **Languages:** C++, C, Java, Python, SQL, GO.
 * **IDE'S:** Cursor, Visual Studio, PyCharm (JetBrains), Code::Blocks, Eclipse, Antigravity, Apache, Oracle, DBeaver, Figma.
-* **Specialties:** Data Structures, Complexity Analysis (Big O), Object-Oriented Programming (OOP), Concurrency, Software Design Patterns, and API Development.
+* **Specialties:** Data Structures, Complexity Analysis (Big O), Object-Oriented Programming (OOP), Concurrency, numPy, Software Design Patterns, and API Development.
 * **AI:** Agent development and Artificial Intelligence-oriented algorithms.
 
 ### Infrastructure and Networking
