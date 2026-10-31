@@ -33,7 +33,7 @@ I am an aspiring FULL-STACK Software Engineer with a solid foundation in systems
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://gh-stats.work/api/top-langs?username=taro-py&layout=compact&theme=dark&hide=typescript,jupyter-notebook" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taro-py&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Top Langs" />
   </a>
 </p>
 
