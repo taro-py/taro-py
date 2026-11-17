@@ -9,17 +9,17 @@ I am an aspiring FULL-STACK Software Engineer with a solid foundation in systems
 
 ### Development and tools 
 * **Languages:** C++, C, Java, Python, SQL, GO.
-* **IDE'S:** Cursor, Visual Studio, PyCharm (JetBrains), Code::Blocks, Eclipse, Antigravity, Apache, Oracle, DBeaver, Figma.
-* **Specialties:** Data Structures, Complexity Analysis (Big O), Object-Oriented Programming (OOP), Concurrency, numPy, Software Design Patterns, and API Development.
+* **IDE'S:** Cursor, Visual Studio code, PyCharm (JetBrains), Code::Blocks, Eclipse, Antigravity, Apache, Oracle, DBeaver, Figma, Stitch.
+* **Specialties:** Data Structures, Complexity Analysis (Big O), Object-Oriented Programming (OOP), Machine Learning, numPy, Software Design Patterns, and API Development.
 * **AI:** Agent development and Artificial Intelligence-oriented algorithms.
 
 ### Infrastructure and Networking
 * **Systems:** Ubuntu, Kali Linux, Arch Linux, MAC, Windows.
 * **Networking:** Topology configuration (Cisco), traffic analysis (Wireshark), and remote management (PuTTY).
-* **Databases:** Database design and management, including complex queries and cursors.
+* **Databases:** Database design and management, including Tuple Relational Calculus,Normal Forms, complex queries and cursors.
 
 ### Cybersecurity
-* Continuous self-taught learning in information security, applying networking and systems concepts to build more robust software, as well as finding vulnerabilities in Linux systems and servers. 
+* Continuous self-taught learning in information security, working with catch the flag-based systems as well as finding vulnerabilities in Linux systems and servers, applying networking and systems concepts to build more robust software. 
 
 ---
 
